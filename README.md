@@ -8,12 +8,17 @@ Estes pontos motivaram este projeto:
 1. Disponibilizando os dados via REST/JSON para os diversos clientes.
 2. Datalog para exportar os dados:  Conrrente (A, B, C e neutro), Fator de Potência (A, B, C e Total), Frequência, Potência Aparente (A, B, C e Total), Potência Reativa (A, B, C e Total), Potência Ativa (A, B, C e Total), Tensão (AB, BC, CA, AN, BN, CN), Distroções Harmônicas de Corrente (A, B, C), Distroções Harmônicas de Tensão (AB, BC, CA, AN, BN, CN).
 
+Os multimedodores e relés de proteção que possuem drive de comunicação já utilizados são: PM9C, PM500, PM750, PM3255, PM5110, SEPAM S80, S40, S20, PAC3200, KRON MULTI K, NSX.
+Os multimedidores com comunicação possuem um mapa de memória disponível, então caso não estejam na lista podem ser implementados.
+
+Nota: No fluxigrama básico, figura abaixo, o equipamento abaixo do servidor é um gateway, contudo pode ser um controlador de demanda afim de controlar fator de potência e que não haja ultrapassagens de demanda.
+
 
 *******
 
 <div id='tela1'/>  
 
-## Diagrama Básico da troca de mensagens entre os ativos e passisvos da rede.  
+## Fluxograma Básico da troca de mensagens entre os ativos e passisvos da rede.  
 
 ![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/0-fluxobasico.png)
 
