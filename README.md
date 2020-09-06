@@ -1,5 +1,4 @@
 # LUMEN. Gestão da Matriz Energética.  
-![](https://github.com/iberematias/Citect-Estufa/blob/master/src/img/logo.png)
 
 Sistema para gerenciamento de energias.
 
