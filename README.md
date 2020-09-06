@@ -3,16 +3,20 @@
 Sistema para gerenciamento de energias.
 
 Histórico: 
-Mesmo existindo sistemas similares no mercado, os clientes precisavam de acesso ao banco de dados para integra os dados de energia com os da produção, além disso, também solicitavam relatórios da qualidade da energia.
-Estes pontos motivaram este projeto:
+Mesmo existindo sistemas similares no mercado, os clientes precisavam de acesso ao banco de dados para integra os dados de energia com os da produção, além disso, também solicitavam relatórios da qualidade da energia, então em 2012 nasceu a versão do Gerenciamento de Energias: Lumen
+Pontos que motivaram este projeto:
 1. Disponibilizando os dados via REST/JSON para os diversos clientes.
 2. Datalog para exportar os dados:  Conrrente (A, B, C e neutro), Fator de Potência (A, B, C e Total), Frequência, Potência Aparente (A, B, C e Total), Potência Reativa (A, B, C e Total), Potência Ativa (A, B, C e Total), Tensão (AB, BC, CA, AN, BN, CN), Distroções Harmônicas de Corrente (A, B, C), Distroções Harmônicas de Tensão (AB, BC, CA, AN, BN, CN).
 
-Os multimedodores e relés de proteção que possuem drive de comunicação já utilizados são: PM9C, PM500, PM750, PM3255, PM5110, SEPAM S80, S40, S20, PAC3200, KRON MULTI K, NSX.
+*******
+
+Lista de Dispositivos já utilizados:
+1. Multimedodores e relés de proteção: PM9C, PM500, PM750, PM3255, PM5110, SEPAM S80, S40, S20, PAC3200, KRON MULTI K, NSX.
+2. Medidores de gás: DRESSER IMC/W2, Endress+Hauser Proline Prowirl 72, 73, F 200 e Yokogawa AXFA14G/C. 
+3. Medidores de variáveis de processo de diversos fabricantes: IFM, Endress+Hauser, Novus, Schneider-Electric etc.
 Os multimedidores com comunicação possuem um mapa de memória disponível, então caso não estejam na lista podem ser implementados.
 
 Nota: No fluxigrama básico, figura abaixo, o equipamento abaixo do servidor é um gateway, contudo pode ser um controlador de demanda afim de controlar fator de potência e que não haja ultrapassagens de demanda.
-
 
 *******
 
