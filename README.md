@@ -24,7 +24,7 @@ Nota: No fluxigrama básico, figura abaixo, o equipamento abaixo do servidor é 
 
 ## Fluxograma Básico da troca de mensagens entre os ativos e passisvos da rede.  
 
-![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/0-fluxobasico.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/0-fluxobasico.png)
 
 *******
 
@@ -52,7 +52,7 @@ Tecnologias
 
 ## Telas do Projeto: Login.  
 
-![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/1-login.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/1-login.png)
 
 *******
 
@@ -60,7 +60,7 @@ Tecnologias
 
 ## Telas do Projeto: Lista de Medidores com as últimas medições.   
 
-![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/2-listaM.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/2-listaM.png)
 
 *******
 
@@ -68,7 +68,7 @@ Tecnologias
 
 ## Telas do Projeto: Painel.    
 
-![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/3-painel.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/3-painel.png)
 
 *******
 
@@ -76,7 +76,7 @@ Tecnologias
 
 ## Telas do Projeto: Relatório de Demanda (KW).   
 
-![](https://github.com/iberematias/CLUMEN-Gegenriamento_Energias/blob/master/src/img/4-Demanda.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/4-Demanda.png)
 
 *******
 
@@ -84,7 +84,7 @@ Tecnologias
 
 ## Telas do Projeto: Relatório de Consumo (kWh).   
 
-![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/5-Consumo.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/5-Consumo.png)
 
 *******
 
@@ -92,7 +92,7 @@ Tecnologias
 
 ## Telas do Projeto: Diagrama Unifilar   
 
-![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/6-alarms.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/6-alarms.png)
 
 *******
 
@@ -100,7 +100,7 @@ Tecnologias
 
 ## Telas do Projeto: Relatório de variável de processos (Temperatura, pressão, umidade etc)   
 
-![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/7-vp.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/7-vp.png)
 
 *******
 
@@ -108,6 +108,6 @@ Tecnologias
 
 ## Telas do Projeto: Relatório de Consumo (Nm³) e Consumo Específico (Nm³/Ton)   
 
-![](https://github.com/iberematias/LUMEN-Gegenriamento_Energias/blob/master/src/img/8-consumoespecifico.png)
+![](https://github.com/iberematias/LUMEN_Energy_Management/blob/master/src/img/8-consumoespecifico.png)
 
 *******
